@@ -1,0 +1,40 @@
+
+/*  base
+====================================  */
+
+body {
+ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+
+}
+
+a {
+
+    color: #000;
+    text-decoration: none;
+
+}
+
+ul {
+    
+   list-style: none; 
+   
+}
+
+/* helpers
+====================================*/
+.mt-15 {
+    margin-top: 15px;
+}
+.pt-15 {
+    padding-top: 15px;
+}
+.bg-gray {
+    background-color: #444;
+}
+/*  layout
+====================================  */
+
+/*  component
+====================================  */
